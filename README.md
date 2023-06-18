@@ -1,11 +1,11 @@
-About r-r62s3
-=============
+About r-r62s3-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-r62s3-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/RaphaelS1/R62S3/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-r62s3-feedstock/blob/main/LICENSE.txt)
 
 Summary: After defining an R6 class, R62S3 is used to automatically generate optional S3/S4 generics and methods for dispatch. Also allows piping for R6 objects.
 
